@@ -86,6 +86,6 @@ The configuration is in the `package.json` file.
 
 Simple yet powerful edit configuration. Gives some clear hints on the used conventions in this project.
 
-## *Bonus*: UnoCSS
+## *Bonus*: UnoCSS 💅🏻
 
 You can give a read to [this article](https://antfu.me/posts/reimagine-atomic-css) if you want to go even deeper than Tailwind JIT in terms of performance/speed.
