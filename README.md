@@ -84,7 +84,11 @@ The configuration is in the `package.json` file.
 
 ## Editorconfig
 
-Simple yet powerful edit configuration. Gives some clear hints on the used conventions in this project.
+Simple yet it gives some clear hints on the used conventions in this project.
+
+## [nr](https://github.com/antfu/ni#nr---run)
+
+Pretty cool tool that will give you a nicer experience when launching your scripts. Run `nr` and select then one that you do like.
 
 ## *Bonus*: UnoCSS
 
