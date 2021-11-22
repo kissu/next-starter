@@ -1,0 +1,6 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "Linting files that you've committed... 🔧"
+pnpm lint-staged
+echo "Files properly linted! ☑️"

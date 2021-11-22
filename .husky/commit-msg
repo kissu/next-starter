@@ -1,0 +1,6 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "\nDid you wrote a good git message? 😀"
+npx --no-install commitlint --edit ""
+echo "Thanks for the nice commit! ☑️"

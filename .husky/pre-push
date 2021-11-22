@@ -1,0 +1,4 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "Run some tests if any 🧪, before pushing remotely... 🚀"
